@@ -1,1 +1,2 @@
-# 2021_wa_pisemka_miksovsky
+Jmeno: Tomas Miksovsky
+Datum: 20.1.2021
